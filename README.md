@@ -1,6 +1,6 @@
 # DCSnyderMovies-ReactTraining
 
-Petit projet personnel d'entraînement React.
+Mini projet personnel d'entraînement React.
 
 # Important pour le fonctionnement
 
