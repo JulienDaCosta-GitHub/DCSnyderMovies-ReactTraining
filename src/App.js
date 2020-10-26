@@ -1,3 +1,4 @@
+import React from 'react';
 import Fiche from './fiche.js';
 import mos from './mos.jpg';
 import bvs from './bvs.jpg';
